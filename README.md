@@ -19,6 +19,14 @@ We have use a RandomForest model for our prediction. Applying cross validation w
 ## Requeriments
 This notebook requires a Python 3.6 or newer version.
 
+## Repository files
+The repository contains the following files:
+- Volcan_prediction.ipynb: Python notebook with the code of the project
+- jm_train.csv: Dataset for train the model
+- jm_X_test.csv: Dataset to test the model
+- predictions.csv: File with the results of the model for the test_X_test.csv
+
+## Requeriments
 To run this notebook you must have installed the following libraries:
  pip install pandas     
  pip install numpy     
