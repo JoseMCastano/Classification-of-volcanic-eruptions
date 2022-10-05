@@ -12,3 +12,25 @@ The dataset has 2,100 instances, 6 features and a target.
     - Target 2 corresponds to a type eruption Vulcaniana
     - Target 3 corresponds to a type eruption Hawaiana
     - Target 4 corresponds to a type eruption Estromboliana
+## Results
+We have use a RandomForest model for our prediction. Applying cross validation we have verified that the model remains stable and that there was no overfitting. Through GridSearch we have adjusted the hyperparameters improving the initial model. The final F1_Score obtained is 0.775
+## Requeriments
+This notebook requires a Python 3.6 or newer version.
+
+To run this notebook you must have installed the following libraries:
+ pip install pandas     
+ pip install numpy     
+ pip install matplotlib     
+ pip install seaborn     
+ pip install scipy     
+ pip install -U scikit-learn
+## Acknowledgements
+For the preparation of this exercise, different online resources have been consulted:
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+
+https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
+
+https://towardsdatascience.com/random-forest-hyperparameters-and-how-to-fine-tune-them-17aee785ee0d
+
+https://www.analyticsvidhya.com/blog/2020/06/auc-roc-curve-machine-learning/
+
