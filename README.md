@@ -36,6 +36,7 @@ To run this notebook you must have installed the following libraries:
  pip install -U scikit-learn
 ## Acknowledgements
 For the preparation of this exercise, different online resources have been consulted:
+
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 
 https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
