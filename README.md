@@ -34,6 +34,7 @@ To run this notebook you must have installed the following libraries:
  pip install seaborn     
  pip install scipy     
  pip install -U scikit-learn
+ 
 See versions in Requirements.txt
 ## Acknowledgements
 For the preparation of this exercise, different online resources have been consulted:
