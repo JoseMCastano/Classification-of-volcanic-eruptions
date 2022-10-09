@@ -23,6 +23,7 @@ The repository contains the following files:
 - jm_train.csv: Dataset for train the model
 - jm_X_test.csv: Dataset to test the model
 - predictions.csv: File with the results of the model for the test_X_test.csv
+- Requirements.txt: File with the versions requirements for run this notebook
 
 ## Requirements
 To run this notebook you must have installed the following libraries:
