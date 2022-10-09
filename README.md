@@ -26,6 +26,7 @@ The repository contains the following files:
 
 ## Requirements
 To run this notebook you must have installed the following libraries:
+
  Python 3.6 or newer version
  pip install pandas     
  pip install numpy     
