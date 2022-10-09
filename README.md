@@ -46,5 +46,4 @@ https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python
 
 https://towardsdatascience.com/random-forest-hyperparameters-and-how-to-fine-tune-them-17aee785ee0d
 
-https://www.analyticsvidhya.com/blog/2020/06/auc-roc-curve-machine-learning/
 
