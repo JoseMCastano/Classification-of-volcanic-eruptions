@@ -15,9 +15,7 @@ The dataset has 2,100 instances, 6 features and a target.
     - Target 3 corresponds to a type eruption Hawaiana
     - Target 4 corresponds to a type eruption Estromboliana
 ## Results
-We have use a RandomForest model for our prediction. Applying cross validation we have verified that the model remains stable and that there was no overfitting. Through GridSearch we have adjusted the hyperparameters improving the initial model. The final F1_Score obtained is 0.775
-## Requeriments
-This notebook requires a Python 3.6 or newer version.
+We have use a RandomForest model for our prediction. Applying cross validation we have verified that the model remains stable and that there was no overfitting. Through GridSearch we have adjusted the hyperparameters improving the initial model. Finally, we have optimized the number of estimators. The final **F1_Score obtained is 0.7789**
 
 ## Repository files
 The repository contains the following files:
@@ -28,6 +26,7 @@ The repository contains the following files:
 
 ## Requirements
 To run this notebook you must have installed the following libraries:
+ Python 3.6 or newer version
  pip install pandas     
  pip install numpy     
  pip install matplotlib     
